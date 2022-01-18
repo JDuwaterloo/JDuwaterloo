@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💬 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🔨 Mechanical Engineer
+- 🎓 Persuing a major in Mechanical Engineering and a minor in Economics at the University of Waterloo
