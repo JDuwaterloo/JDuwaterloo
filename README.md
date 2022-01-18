@@ -7,7 +7,6 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -24,5 +23,4 @@
 <img align="left" alt="SolidWorks" width="26px" src="https://lemp.uccs.edu/images/logo-solidworks.png" />
 
 
-[instagram]: https://www.instagram.com/l1ljd
 [linkedin]: https://www.linkedin.com/in/jd-zhu
