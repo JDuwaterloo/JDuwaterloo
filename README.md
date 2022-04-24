@@ -1,7 +1,7 @@
 ### Hi there, I'm JD 👋
 
 ## I'm a Mechanical Engineer
-- 🎓 Persuing a major in Mechanical Engineering and a minor in Economics at the University of Waterloo
+- 🎓 Persuing a Bachelor's Degree in Mechanical Engineering at the University of Waterloo
 - 🔭 I’m currently working as a research assistant
 
 ### Connect with me:
