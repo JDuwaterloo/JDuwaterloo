@@ -11,8 +11,6 @@
 
 - 📝 Some of my published papers are available on [Google Scholar](https://scholar.google.com/citations?user=r9UsvRMAAAAJ&hl=en)
 
-- 📫 Reach out to me on LinkedIn
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jd-zhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="to linked in" height="30" width="40" /></a>
