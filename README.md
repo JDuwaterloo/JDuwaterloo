@@ -7,7 +7,7 @@
 
 - 🧑‍🔬 I have always been fascinated by nature and science, trained and educated as an engineer gives me the tools available to explore these interests
 
-- 🧑‍💻 My research interest includes but not limited to Fluids, PDEs and Advance Manufacturing
+- 🧑‍💻 My research interest includes but not limited to Fluids, Advance Manufacturing and PDEs
 
 - 📝 Some of my published papers are available on [Google Scholar](https://scholar.google.com/citations?user=r9UsvRMAAAAJ&hl=en)
 
